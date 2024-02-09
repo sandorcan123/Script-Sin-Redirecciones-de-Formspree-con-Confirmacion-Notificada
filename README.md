@@ -10,7 +10,7 @@ Este repositorio contiene un script JavaScript que facilita el envío de formula
 
 ## Uso
 
-Simplemente integra el siguiente script en tu página web donde se encuentre el formulario que deseas enviar utilizando Formspree. Asegúrate de actualizar la URL de la acción del formulario con la URL de tu formulario de Formspree.
+Simplemente integra el siguiente script en tu página web donde se encuentre el formulario que deseas enviar utilizando Formspree. Asegúrate de actualizar la URL de la acción del formulario con la URL de tu formulario de Formspree. Utiliza el codigo con las etiquedas <script> en el mismo archivo donde esta el formulario
 
 ```javascript
 document.addEventListener("DOMContentLoaded", function() {
