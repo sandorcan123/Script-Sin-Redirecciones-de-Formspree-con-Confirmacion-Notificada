@@ -1,4 +1,4 @@
-# Script de Envío de Formulario con Confirmación y Notificación
+# Script Sin Redirecciones de Formspree con Confirmación Notificada
 
 Este repositorio contiene un script JavaScript que facilita el envío de formularios utilizando Formspree como servicio de envío de correos electrónicos. El script está diseñado para mostrar una notificación al usuario después del envío del formulario y evitar redirecciones automáticas a la página de confirmación de Formspree, lo que proporciona una experiencia de usuario mejorada.
 
